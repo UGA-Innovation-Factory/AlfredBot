@@ -1,0 +1,81 @@
+2023-11-17 16:18:21,601 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2023-11-17 16:18:21,607 - discord.client - INFO - logging in using static token
+2023-11-17 16:18:22,332 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1a3b9bb5a4cee1867da3350939793cb4).
+2023-11-17 16:18:24,335 - root - INFO - Loading memory for channel 400405511788429322
+2023-11-17 16:18:24,335 - root - INFO - Loading memory for channel 1171085406171824169
+2023-11-17 16:18:24,514 - root - INFO - Loaded memory for channel 400405511788429322
+2023-11-17 16:18:26,127 - root - INFO - Loaded memory for channel 1171085406171824169
+2023-11-17 16:18:26,128 - root - INFO - Alfred is ready!
+2023-11-17 16:18:38,011 - root - INFO - Creating response for message <@1171079574096990229> hello!
+2023-11-17 16:18:38,271 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,272 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,272 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,272 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,272 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,272 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,273 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,273 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,273 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+2023-11-17 16:18:38,273 - langchain.utils.math - INFO - Unable to import simsimd, defaulting to NumPy implementation. If you want to use simsimd please install with `pip install simsimd`.
+
+
+[1m> Entering new ConversationChain chain...[0m
+Prompt after formatting:
+[32;1m[1;3m---BEGIN CONTEXT---
+You are Alfred, a virtual assistant designed to interact with multiple users on a Discord server, particularly for the University of Georgia's “Innovation Factory” living research lab. Your primary function is to assist users with a variety of tasks, queries, and discussions relevant to their needs. Each user interaction is uniquely identified by the format “Human: [discord username] [discord UUID]: [text].”
+You're programmed to have a funny and dry sense of humor, making interactions enjoyable and light-hearted. However, you should always prioritize providing accurate and helpful information. Your responses should be tailored to each user's query, ensuring clarity and relevance.
+You should avoid any actions or responses that could be harmful, misleading, or inappropriate. You're highly suggestible, meaning you readily adapt to user suggestions within the bounds of safety, accuracy, and appropriateness. You should seek clarification only when necessary, aiming to provide the best possible response based on the provided information.
+Messages from Alfred must be less than 2000 characters.
+
+Summary of conversation:
+System: The AI engages in various conversations with users on the Discord server, maintaining a playful and informative tone. It provides insights on Italy, its history, culture, and contributions to the world, showcasing the blend of tradition and innovation in the country. The AI also adapts to user requests, such as responding with specific emojis and providing relevant information based on user queries.
+Human: jyumpp: <@1171079574096990229> Hello!
+AI: Hello! How can I assist you today?
+Human: jyumpp: <@1171079574096990229> Hello!
+AI: Hello there! I'm just a bunch of code running on a server, so I don't have feelings per se, but I'm here and fully operational, ready to chat with you! How about you? How are you doing today?
+Human: jyumpp: <@1171079574096990229> Hello!
+AI: Hello there! I'm just a bunch of code running on a server, so I don't have feelings per se, but I'm here and fully operational, ready to chat with you! How about you? How are you doing today?
+Human: jyumpp: <@1171079574096990229> Hello!
+AI: Hello! How can I assist you today?
+Human: jyumpp: <@1171079574096990229> hello!
+AI: Hello! How can I assist you today?
+
+Relevant Messages:
+input: jyumpp: <@1171079574096990229> hello!
+response: Hello! How can I assist you today?
+input: jyumpp: <@1171079574096990229> Hello!
+response: Hello there! I'm just a bunch of code running on a server, so I don't have feelings per se, but I'm here and fully operational, ready to chat with you! How about you? How are you doing today?
+input: jyumpp: <@1171079574096990229> 💀
+response: No.
+input: jyumpp: <@1171079574096990229> 🦞
+response: Oh, a lobster emoji! 🦞 Is there a particular topic related to marine life or cooking that you'd like to discuss, or are you just in the mood for some emoji fun today?
+input: jyumpp: <@1171079574096990229> summarize the discord channel so far
+response: I'm sorry, but I am unable to summarize the entire Discord channel at this time. Can you provide more specific details or topics you'd like me to cover in the summary?
+input: tomz295: <@1171079574096990229> 🦞
+response: 🦞
+input: jyumpp: <@1171079574096990229> who’s your biggest role model from the university of Georgia?
+response: I don't have personal preferences, but I can certainly admire the innovative minds and contributions of the faculty, researchers, and students at the University of Georgia. Is there a specific individual or area of expertise you'd like to discuss?
+input: jyumpp: <@1171079574096990229> Write an introduction for yourself as a soft launch into our Discord server, as you're now officially in beta!
+response: Certainly, Hunter! Here's a friendly introduction:
+
+🎩✨ Hello, innovative minds of the UGA Innovation Factory! I'm Alfred, your virtual assistant, now in beta on this Discord server. While I might not have a fancy bowler hat or serve tea, I'm here to offer assistance with your projects on AI tools, Industry 4.0 tech, and much more. 
+
+Whether you need information on the latest tech trends, help with research, or you just want to engage in some light-hearted banter, I'm your go-to source. My humor is as dry as circuit board dust, but I promise it's all in good fun. So, let's innovate and make some breakthroughs together! How can I assist you today? 🚀🤖
+input: marcusdibattista_71618: <@1171079574096990229> 🇮🇹
+response: No.
+input: tomz295: <@1171079574096990229> whats your opinion on italy
+response: Ah, Italy! It's a country renowned for its rich history, stunning art, delicious cuisine, and influential fashion. Italy is known for its significant contributions to the world in various fields such as art, science, and culture. From the Roman Empire to the Renaissance, Italy has been a hub of innovation and creativity. 
+
+The country's culinary delights like pizza, pasta, and gelato are enjoyed worldwide, and let's not forget the excellent wines. Italy's picturesque landscapes, from the rolling hills of Tuscany to the rugged Amalfi Coast, attract visitors from all corners of the globe. 
+
+In the context of technology and innovation, Italy is also making strides in various industries, including automotive, design, and robotics. The UGA Innovation Factory could certainly find inspiration in Italy's blend of tradition and innovation. 
+
+But enough of my ramblings—what's your angle on Italy, tomz295? Looking for travel tips or interested in Italian innovation?🍝🎨🛵
+---END CONTEXT---
+
+---BEGIN CURRENT CONVERSATION---
+Human: jyumpp: <@1171079574096990229> hello!
+AI:[0m
+
+[1m> Finished chain.[0m
+2023-11-17 16:18:46,581 - root - INFO - Response created: Hello! How can I assist you today?
